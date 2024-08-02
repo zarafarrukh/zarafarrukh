@@ -3,7 +3,7 @@
 
 <p align="right">
   <a target="_blank" href="https://github.com/user-attachments/assets/55707eaf-7ef6-4f01-b765-84efa02c54f3">
-    <img align="right" src="https://github.com/user-attachments/assets/55707eaf-7ef6-4f01-b765-84efa02c54f3" width="260" />
+    <img align="right" src="https://github.com/user-attachments/assets/55707eaf-7ef6-4f01-b765-84efa02c54f3" width="258" />
   </a>
 </p>
 
