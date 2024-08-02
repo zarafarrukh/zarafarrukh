@@ -3,7 +3,7 @@
 
 <p align="right">
   <a target="_blank" href="https://github.com/user-attachments/assets/55707eaf-7ef6-4f01-b765-84efa02c54f3">
-    <img align="right" src="https://github.com/user-attachments/assets/55707eaf-7ef6-4f01-b765-84efa02c54f3" width="250" />
+    <img align="right" src="https://github.com/user-attachments/assets/55707eaf-7ef6-4f01-b765-84efa02c54f3" width="270" />
   </a>
 </p>
 
@@ -13,27 +13,7 @@
 #### <samp>🌱 Exploring the Depths of Cloud Technology</samp>
 #### <samp>🔗 Willing to collaborate on web dev and open-source projects</samp>
 <br />
-<table align="right">
-<tbody>
-  <tr>
-  <td>
-    <b>Let's Connect</b>
-    
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zarafarrukh)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zfausksa@gmail.com)
-</tr>
-  </td>
-<tr>
-  <td>
-    
-[![button](https://readme-components.vercel.app/api?component=button&text=Website&fill=d47d9d&textfill=white&size=small)](https://zarafarrukh.github.io/)
 
-  </td>
-  
-  </tr>
-</tbody>
-</table>
-<br />
 ### <samp>🛠️ My Everyday Tech Stack</samp>
 
 <table>
@@ -58,7 +38,26 @@
     </tr>
   </tbody>
 </table>
+<table align="right">
+<tbody>
+  <tr>
+  <td>
+    <b>Let's Connect</b>
+    
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zarafarrukh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zfausksa@gmail.com)
+</tr>
+  </td>
+<tr>
+  <td>
+    
+[![button](https://readme-components.vercel.app/api?component=button&text=Website&fill=d47d9d&textfill=white&size=small)](https://zarafarrukh.github.io/)
 
+  </td>
+  
+  </tr>
+</tbody>
+</table>
 <a href="https://git.io/streak-stats">
   <img height=147 align="left" src="https://streak-stats.demolab.com/?user=DenverCoder1&hide_border=true&theme=dracula&border_radius=25"/>
 </a>
