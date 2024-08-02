@@ -14,7 +14,7 @@
 #### <samp>🔗 Willing to collaborate on web dev and open-source projects</samp>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=135 align="center" src="https://github-readme-stats.vercel.app/api?username=zarafarrukh&hide=prs,issues,stars&show_icons=true&theme=dracula" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=zarafarrukh&hide=prs,issues,stars&show_icons=true&theme=dracula" />
 </a>
 <table align="right">
 <tbody>
@@ -38,11 +38,11 @@
 </table>
 
 <a href="https://git.io/streak-stats">
-  <img height=165.5 align="left" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dracula"/>
+  <img height=147 align="left" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dracula"/>
 </a>
 
-
-### <samp>My Skill Set</samp>
+<br />
+<samp>My Skill Set</samp>
 <table>
   <tbody>
     <tr><td valign="top" width="33%"><div class="markdown-heading" dir="auto"><h3 tableindex="-1" class="heading-element" dir="auto">Frontend</h3></div>
