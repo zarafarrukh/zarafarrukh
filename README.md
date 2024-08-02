@@ -42,8 +42,9 @@
 </a>
 
 <br />
+
 <samp>My Skill Set</samp>
-<table>
+<table align ="left">
   <tbody>
     <tr><td valign="top" width="33%"><div class="markdown-heading" dir="auto"><h3 tableindex="-1" class="heading-element" dir="auto">Frontend</h3></div>
     <div align="center" dir="auto">Buttons here </div></td>
