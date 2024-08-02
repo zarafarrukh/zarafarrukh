@@ -17,18 +17,21 @@
 <table align="right">
 <tbody>
   <tr>
-    <td>
-      <b>Let's Connect</b>
+  <td>
+    <b>Let's Connect</b>
     
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zarafarrukh)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zfausksa@gmail.com)
-    </tr>
+</tr>
   </td>
 <tr>
   <td align="center">
+    
 [![button](https://readme-components.vercel.app/api?component=button&text=Website&fill=d47d9d&textfill=white&size=small)](https://zarafarrukh.github.io/)
+
   </td>
-</tr>
+  
+  </tr>
 </tbody>
 </table>
 <table>
