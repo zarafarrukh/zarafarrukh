@@ -48,11 +48,11 @@
 <br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=zarafarrukh&hide=prs,issues,stars&show_icons=true&theme=dracula" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=zarafarrukh&hide=prs,issues,stars&show_icons=true&theme=dracula&border_radius=30" />
 </a>
 
 <a href="https://git.io/streak-stats">
-  <img height=147 align="left" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dracula"/>
+  <img height=147 align="left" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dracula&border_radius=30"/>
 </a>
 
 
