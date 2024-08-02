@@ -15,7 +15,26 @@
 <br />
 
 ### <samp>🛠️ My Everyday Tech Stack</samp>
+<table align="right">
+<tbody>
+  <tr>
+  <td>
+    <b>Let's Connect</b>
+    
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zarafarrukh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zfausksa@gmail.com)
+</tr>
+  </td>
+<tr>
+  <td>
+    
+[![button](https://readme-components.vercel.app/api?component=button&text=Website&fill=d47d9d&textfill=white&size=small)](https://zarafarrukh.github.io/)
 
+  </td>
+  
+  </tr>
+</tbody>
+</table>
 <table>
   <tbody>
     <tr>
@@ -43,26 +62,7 @@
     </tr>
   </tbody>
 </table>
-<table align="right">
-<tbody>
-  <tr>
-  <td>
-    <b>Let's Connect</b>
-    
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zarafarrukh)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zfausksa@gmail.com)
-</tr>
-  </td>
-<tr>
-  <td>
-    
-[![button](https://readme-components.vercel.app/api?component=button&text=Website&fill=d47d9d&textfill=white&size=small)](https://zarafarrukh.github.io/)
 
-  </td>
-  
-  </tr>
-</tbody>
-</table>
 <a href="https://git.io/streak-stats">
   <img height=166.5 align="left" src="https://streak-stats.demolab.com/?user=DenverCoder1&hide_border=true&theme=dracula&border_radius=25"/>
 </a>
