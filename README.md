@@ -15,7 +15,7 @@
 <br />
 
 <samp>My Skill Set</samp>
-<table align ="left">
+<table>
   <tbody>
     <tr><td valign="top" width="33%"><div class="markdown-heading" dir="auto"><h3 tableindex="-1" class="heading-element" dir="auto">Frontend</h3></div>
     <div align="center" dir="auto">Buttons here </div></td>
@@ -25,12 +25,6 @@
     </tr>
   </tbody>
 </table>
-
-<br />
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=zarafarrukh&hide=prs,issues,stars&show_icons=true&theme=dracula" />
-</a>
 <table align="right">
 <tbody>
   <tr>
@@ -51,6 +45,11 @@
   </tr>
 </tbody>
 </table>
+<br />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=zarafarrukh&hide=prs,issues,stars&show_icons=true&theme=dracula" />
+</a>
 
 <a href="https://git.io/streak-stats">
   <img height=147 align="left" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dracula"/>
