@@ -23,19 +23,19 @@
         <div align="center">
           <a href="https://github.com/harish-sethuraman/readme-components">
             <img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&text=false&textfill=68a063&fill=000" alt="node.js Logo" width="62"/>
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&fill=000&textfill=f0db4f" alt="js Logo" width="62"/>
+            <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&fill=000&textfill=f0db4f" alt="javascript Logo" width="62"/>
             <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&textfill=61dafb&fill=000" alt="React Logo" width="62"/>
             <img src="https://readme-components.vercel.app/api?component=logo&logo=html5&text=false&fill=f06529" alt="html5 Logo" width="62"/>
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=next.js&text=false&fill=000&textfill=fff" alt="git Logo" width="62"/>
+            <img src="https://readme-components.vercel.app/api?component=logo&logo=next.js&text=false&fill=000&textfill=fff" alt="nextjs Logo" width="62"/>
             <img src="https://readme-components.vercel.app/api?component=logo&logo=css3&text=false&fill=000&textfill=264de4" alt="css3 Logo" width="62"/> <br />
             <img src="https://readme-components.vercel.app/api?component=logo&logo=github&text=false&fill=000&textfill=bcbcbc" alt="github Logo" width="55"/>
             <img src="https://readme-components.vercel.app/api?component=logo&logo=git&text=false&fill=000&textfill=f34f29" alt="git Logo" width="55"/>
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&fill=000&textfill=f34f29" alt="git Logo" width="55"/>
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&text=false&fill=000&textfill=06b6d4" alt="c Logo" width="55"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="55"/> <br />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Cplusplus Logo" width="38"/>
+            <img src="https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&text=false&fill=000&textfill=06b6d4" alt="tailwindcss Logo" width="55"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python Logo" width="55"/> <br />
             <img src="https://readme-components.vercel.app/api?component=logo&logo=latex&text=false&fill=f06529&textfill=" alt="latex Logo" width="48"/>
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma Logo" width="25"/>
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=bootstrap&text=false&fill=000&textfill=fff" alt="latex Logo" width="48"/>
+            <img src="https://readme-components.vercel.app/api?component=logo&logo=bootstrap&text=false&fill=000&textfill=fff" alt="bootstrap Logo" width="48"/>
             <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn Logo" width="100"/>
           </a>
         </div>
