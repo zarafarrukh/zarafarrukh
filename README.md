@@ -38,7 +38,7 @@
 </table>
 
 <a href="https://git.io/streak-stats">
-  <img height=165 align="left" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dracula"/>
+  <img height=165.5 align="left" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dracula"/>
 </a>
 
 
