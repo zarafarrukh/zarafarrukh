@@ -29,7 +29,7 @@
 <tr>
   <td>
     
-[![button](https://readme-components.vercel.app/api?component=button&text=Website&fill=d47d9d&textfill=white&size=small)](zarafarrukh.github.io)
+[![button](https://readme-components.vercel.app/api?component=button&text=Website&fill=d47d9d&textfill=white&size=small)](https://zarafarrukh.github.io/)
 
   </td>
   
