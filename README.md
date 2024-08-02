@@ -1,4 +1,3 @@
-
 ## <samp><p align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="25"/> Hello World, I'm Zara </p></samp>
 
 <p align="right">
@@ -18,21 +17,18 @@
 <table align="right">
 <tbody>
   <tr>
-  <td>
-    <b>Let's Connect</b>
+    <td>
+      <b>Let's Connect</b>
     
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zarafarrukh)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zfausksa@gmail.com)
-</tr>
+    </tr>
   </td>
 <tr>
   <td align="center">
-    
 [![button](https://readme-components.vercel.app/api?component=button&text=Website&fill=d47d9d&textfill=white&size=small)](https://zarafarrukh.github.io/)
-
   </td>
-  
-  </tr>
+</tr>
 </tbody>
 </table>
 <table>
