@@ -25,13 +25,13 @@
             <img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&text=false&textfill=68a063&fill=000" alt="node.js Logo" width="50"/>
             <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&textfill=61dafb&fill=000" alt="React Logo" width="60"/>
             <img src="https://readme-components.vercel.app/api?component=logo&logo=html5&text=false&fill=f06529" alt="html5 Logo" width="50"/> <br />
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=css3&text=false&fill=000&textfill=f06529" alt="css3 Logo" width="50"/>
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&fill=000&textfill=f06529" alt="js Logo" width="50"/>
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=github&text=false&fill=f06529" alt="github Logo" width="50"/>
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=git&text=false&fill=f06529" alt="git Logo" width="50"/> <br />
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=c++&text=false&fill=f06529" alt="c Logo" width="50"/>
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&fill=f06529" alt="python Logo" width="50"/>
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=latex&text=false&fill=f06529" alt="latex Logo" width="50"/>
+            <img src="https://readme-components.vercel.app/api?component=logo&logo=css3&text=false&fill=000&textfill=264de4" alt="css3 Logo" width="50"/>
+            <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&fill=000&textfill=f0db4f" alt="js Logo" width="50"/>
+            <img src="https://readme-components.vercel.app/api?component=logo&logo=github&text=false&fill=000&textfill=bcbcbc" alt="github Logo" width="50"/>
+            <img src="https://readme-components.vercel.app/api?component=logo&logo=git&text=false&fill=000&textfill=f34f29" alt="git Logo" width="50"/> <br />
+            <img src="https://readme-components.vercel.app/api?component=logo&logo=c++&text=false&fill=f06529&textfill=" alt="c Logo" width="50"/>
+            <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&fill=000&textfill=ffde57" alt="python Logo" width="50"/>
+            <img src="https://readme-components.vercel.app/api?component=logo&logo=latex&text=false&fill=f06529&textfill=" alt="latex Logo" width="50"/>
           </a>
         </div>
       </td>
