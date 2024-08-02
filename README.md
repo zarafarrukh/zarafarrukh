@@ -13,32 +13,6 @@
 #### <samp>🌱 Exploring the Depths of Cloud Technology</samp>
 #### <samp>🔗 Willing to collaborate on web dev and open-source projects</samp>
 <br />
-
-### <samp>🛠️ My Everyday Tech Stack</samp>
-
-<table>
-  <tbody>
-    <tr>
-      <td valign="top" width="100%">
-        <div align="center">
-          <a href="https://github.com/harish-sethuraman/readme-components">
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&text=false&textfill=68a063&fill=000" alt="node.js Logo" width="50"/>
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&textfill=61dafb&fill=000" alt="React Logo" width="60"/>
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=html5&text=false&fill=f06529" alt="html5 Logo" width="50"/> <br />
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=css3&text=false&fill=000&textfill=264de4" alt="css3 Logo" width="50"/>
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&fill=000&textfill=f0db4f" alt="js Logo" width="50"/>
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=github&text=false&fill=000&textfill=bcbcbc" alt="github Logo" width="50"/>
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=git&text=false&fill=000&textfill=f34f29" alt="git Logo" width="50"/> <br />
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=c++&text=false&fill=f06529&textfill=" alt="c Logo" width="50"/>
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&fill=000&textfill=ffde57" alt="python Logo" width="50"/>
-            <img src="https://readme-components.vercel.app/api?component=logo&logo=latex&text=false&fill=f06529&textfill=" alt="latex Logo" width="50"/>
-          </a>
-        </div>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 <table align="right">
 <tbody>
   <tr>
@@ -60,6 +34,30 @@
 </tbody>
 </table>
 <br />
+### <samp>🛠️ My Everyday Tech Stack</samp>
+
+<table>
+  <tbody>
+    <tr>
+      <td valign="top" width="100%">
+        <div align="center">
+          <a href="https://github.com/harish-sethuraman/readme-components">
+            <img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&text=false&textfill=68a063&fill=000" alt="node.js Logo" width="50"/>
+            <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&textfill=61dafb&fill=000" alt="React Logo" width="60"/>
+            <img src="https://readme-components.vercel.app/api?component=logo&logo=html5&text=false&fill=f06529" alt="html5 Logo" width="50"/>
+            <img src="https://readme-components.vercel.app/api?component=logo&logo=css3&text=false&fill=000&textfill=264de4" alt="css3 Logo" width="50"/>
+            <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&fill=000&textfill=f0db4f" alt="js Logo" width="50"/>
+            <img src="https://readme-components.vercel.app/api?component=logo&logo=github&text=false&fill=000&textfill=bcbcbc" alt="github Logo" width="50"/> <br />
+            <img src="https://readme-components.vercel.app/api?component=logo&logo=git&text=false&fill=000&textfill=f34f29" alt="git Logo" width="50"/>
+            <img src="https://readme-components.vercel.app/api?component=logo&logo=c++&text=false&fill=f06529&textfill=" alt="c Logo" width="50"/>
+            <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&fill=000&textfill=ffde57" alt="python Logo" width="50"/>
+            <img src="https://readme-components.vercel.app/api?component=logo&logo=latex&text=false&fill=f06529&textfill=" alt="latex Logo" width="50"/> <br />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <a href="https://git.io/streak-stats">
   <img height=147 align="left" src="https://streak-stats.demolab.com/?user=DenverCoder1&hide_border=true&theme=dracula&border_radius=25"/>
