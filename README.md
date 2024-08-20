@@ -6,10 +6,10 @@
   </a>
 </p>
 
-### <samp>Woman in STEM. Inspired Developer. AI & Cloud computing enthusiast. ☁️</p>
+### <samp>Woman in STEM. Inspired Developer. Data Science & AI enthusiast. ☁️</p>
 
-#### <samp>🎨 Currently working on front-end projects</samp>
-#### <samp>🌱 Exploring the Depths of Cloud Technology</samp>
+#### <samp>🎨 Currently working on engaging and dynamic applications</samp>
+#### <samp>🌱 Exploring the Depths of Machine Learning</samp>
 #### <samp>🔗 Willing to collaborate on web dev and open-source projects</samp>
 <br />
 
