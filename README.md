@@ -8,9 +8,9 @@
 
 ### <samp>Woman in STEM. Inspired Developer. Data Science & AI enthusiast. ☁️</p>
 
-#### <samp>🎨 Currently working on engaging and dynamic applications</samp>
-#### <samp>🌱 Exploring the Depths of Machine Learning</samp>
-#### <samp>🔗 Willing to collaborate on web dev and open-source projects</samp>
+#### 🎨 Currently working on engaging and dynamic applications</samp>
+#### 🌱 Exploring the Depths of Machine Learning</samp>
+#### 🔗 Willing to collaborate on open-source projects</samp>
 <br />
 
 ### <samp>🛠️ My Everyday Tech Stack</samp>
